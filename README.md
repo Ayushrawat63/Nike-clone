@@ -49,10 +49,6 @@ Check out the live version here: [Nike Clone Live](https://nikec1clone.netlify.a
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
 For inquiries or feedback, reach out at [ayushrawat9259@gamil.com].
